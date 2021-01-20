@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/elsklivet-github-io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/elsklivet-github-io/static/js/main.19a2024a.chunk.js",
+    "main.js.map": "/elsklivet-github-io/static/js/main.19a2024a.chunk.js.map",
+    "runtime-main.js": "/elsklivet-github-io/static/js/runtime-main.e3a4a37b.js",
+    "runtime-main.js.map": "/elsklivet-github-io/static/js/runtime-main.e3a4a37b.js.map",
+    "static/js/2.4992ad77.chunk.js": "/elsklivet-github-io/static/js/2.4992ad77.chunk.js",
+    "static/js/2.4992ad77.chunk.js.map": "/elsklivet-github-io/static/js/2.4992ad77.chunk.js.map",
+    "static/js/3.21092fda.chunk.js": "/elsklivet-github-io/static/js/3.21092fda.chunk.js",
+    "static/js/3.21092fda.chunk.js.map": "/elsklivet-github-io/static/js/3.21092fda.chunk.js.map",
+    "index.html": "/elsklivet-github-io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/elsklivet-github-io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4992ad77.chunk.js.LICENSE.txt": "/elsklivet-github-io/static/js/2.4992ad77.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/elsklivet-github-io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3a4a37b.js",
+    "static/js/2.4992ad77.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.19a2024a.chunk.js"
+  ]
+}
