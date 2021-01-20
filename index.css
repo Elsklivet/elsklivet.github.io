@@ -44,7 +44,7 @@ body, html {
   
   .parallax {
     /* The image used */
-    background-image: url("imgs/back.jpg");
+    background-image: url("https://github.com/Elsklivet/elsklivet.github.io/tree/master/imgs/back.jpg");
   
     /* Full height */
     height: 100%;
@@ -63,7 +63,7 @@ body, html {
   
   .bg-image {
     /* The image used */
-    background-image: url("imgs/back.jpg");
+    background-image: url("https://github.com/Elsklivet/elsklivet.github.io/tree/master/imgs/back.jpg");
   
     /* Add the blur effect */
     filter: blur(8px);
